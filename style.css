@@ -14,7 +14,7 @@ body{
 header{
     width: 100vw;
     height: 24vh;
-    background-image: url(/Assets/4063097.jpg);
+    background-image: url(Assets/4063097.jpg);
     background-size: cover;
     background-position-y: center;
     display: flex;
